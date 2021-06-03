@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Compartilhamento
 {
-    public partial class Form1 : Form
+    public partial class frm_inicial : Form
     {
-        public Form1()
+        public frm_inicial()
         {
             InitializeComponent();
         }
@@ -20,6 +20,16 @@ namespace Compartilhamento
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Primeira mensagem");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Segunda mensagem");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Terceira mensagem");
         }
     }
 }
