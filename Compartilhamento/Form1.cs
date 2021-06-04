@@ -31,5 +31,10 @@ namespace Compartilhamento
         {
             MessageBox.Show("Terceira mensagem");
         }
+
+        private void frm_inicial_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
