@@ -147,7 +147,7 @@ namespace Compartilhamento
             // 
             // txt_informacao_idade_cadastro
             // 
-            this.txt_informacao_idade_cadastro.Location = new System.Drawing.Point(298, 206);
+            this.txt_informacao_idade_cadastro.Location = new System.Drawing.Point(296, 232);
             this.txt_informacao_idade_cadastro.Name = "txt_informacao_idade_cadastro";
             this.txt_informacao_idade_cadastro.Size = new System.Drawing.Size(42, 20);
             this.txt_informacao_idade_cadastro.TabIndex = 11;
